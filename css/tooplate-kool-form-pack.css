@@ -49,6 +49,8 @@ Bootstrap 5 Form Pack Template
 body {
   background-color: var(--body-bg-color);
   font-family: var(--body-font-family); 
+  background-image: url(/images/list.webp);
+  background-size: cover;
 }
 
 
