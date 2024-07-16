@@ -300,7 +300,7 @@ strong {
 
 .hero-bg {
   
-  background-image: url(/Project-1/images/list.webp);
+  background-image: url(./Project-1/images/list.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 1400px 700px;
